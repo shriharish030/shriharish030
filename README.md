@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A050505%2C50%3A450A0A%2C100%3A991B1B&height=180&section=header&text=SHRI%20HARISH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Undergraduate&descSize=14&descAlignY=60" width="100%" alt="Shri Harish - Software Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A050505%2C50%3A450A0A%2C100%3A991B1B&height=180&section=header&text=SHRI%20HARISH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SYSTEMS%20R%26D&descSize=15&descAlignY=60" width="100%" alt="Shri Harish - Software Developer | Systems R&D"/>
 
 ### Computer Science Engineering Student
 
@@ -26,14 +26,14 @@
 
 ## 01 — About Me
 
-I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC), Coimbatore**, passionate about building software, exploring AI, and experimenting with hardware systems.
+I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC), Coimbatore**, passionate about software development, intelligent applications, and system-level experimentation.
 
-- 🎓 B.E. Computer Science and Engineering
-- 💻 Developing full-stack web applications and backend systems
+- 💻 Developing full-stack applications and backend systems
 - 🤖 Exploring AI/ML, Edge AI, LLMs, and RAG
 - 📱 Building Android applications with Java
 - 🔍 Interested in systems research, log analytics, and automation
 - ⚡ Exploring hardware electronics and embedded systems
+- 🎯 Focused on clean architecture, performance, and practical problem-solving
 
 > **My approach:** Understand the problem. Design the system. Build the solution.
 
@@ -49,7 +49,7 @@ I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineerin
 
 **AI-Powered Nutrition Tracking**
 
-An AI-based mobile application for food recognition and nutrition tracking, designed with an offline-first approach.
+An AI-based mobile application for food recognition and nutrition tracking, designed around an offline-first approach.
 
 `Java` `Android Studio` `TensorFlow Lite` `MobileNetV2`
 
@@ -65,7 +65,7 @@ An AI-based mobile application for food recognition and nutrition tracking, desi
 
 **Intelligent Security Analytics**
 
-An intelligent monitoring concept focused on identifying unusual API activity through machine learning and log analysis.
+An AI-focused monitoring platform concept for identifying unusual API activity through machine learning and log analysis.
 
 `Python` `Machine Learning` `LLM` `RAG`
 
@@ -120,19 +120,19 @@ Hands-on exploration of hardware modifications, electronics, audio systems, and 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python Java JavaScript TypeScript"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python, Java, JavaScript, TypeScript"/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js Express MongoDB MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL"/>
 
 ### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Angular HTML CSS React Android Studio"/>
+<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Angular, HTML, CSS, React, Android Studio"/>
 
 ### AI/ML & Tools
 
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="TensorFlow Git GitHub Linux VS Code"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="TensorFlow, Git, GitHub, Linux, VS Code"/>
 
 </div>
 
@@ -150,12 +150,6 @@ Hands-on exploration of hardware modifications, electronics, audio systems, and 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriharish030&layout=compact&hide_border=true&bg_color=080808&title_color=F87171&text_color=E5E7EB&langs_count=6" alt="Most used languages"/>
 </a>
 
-<br/><br/>
-
-<a href="https://github.com/shriharish030">
-<img width="75%" src="https://streak-stats.demolab.com?user=shriharish030&theme=dark&hide_border=true&background=080808&ring=EF4444&fire=F87171&currStreakLabel=F87171" alt="GitHub contribution streak"/>
-</a>
-
 </div>
 
 ---
@@ -171,7 +165,7 @@ development:
 research:
   - AI/ML and Edge AI
   - Large Language Models and RAG
-  - System R&D and Log Analytics
+  - Systems R&D and Log Analytics
 
 interests:
   - Software Architecture
