@@ -1,49 +1,45 @@
-# 🔴 SHRI HARISH M
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:300707,100:991B1B&height=200&section=header&text=SHRI%20HARISH%20M&fontSize=42&fontColor=FFFFFF&fontAlignY=40&desc=SOFTWARE%20DEVELOPMENT%20%7C%20AI%2FML%20%7C%20SYSTEMS%20R%26D&descSize=14&descAlignY=65" width="100%" alt="Profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A050505%2C50%3A450A0A%2C100%3A991B1B&height=180&section=header&text=SHRI%20HARISH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Undergraduate&descSize=14&descAlignY=60" width="100%" alt="Shri Harish - Software Developer"/>
 
-<br/>
+### Computer Science Engineering Student
 
-**Computer Science Engineering Student · Developer · Tech Explorer**
+**Software Development · AI/ML · Full-Stack · Systems R&D**
 
 *Building software. Exploring intelligence. Engineering systems.*
 
 <br/>
 
-<a href="https://github.com/shriharish030"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F87171"/></a>
-<a href="https://www.linkedin.com/in/shri-harish-a19516348/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F87171"/></a>
-<a href="https://shriharish030.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=F87171"/></a>
-<a href="mailto:shriharishmurugan8@gmail.com"><img src="https://img.shields.io/badge/Contact-111111?style=for-the-badge&logo=gmail&logoColor=F87171"/></a>
+<a href="https://github.com/shriharish030"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shri-harish-a19516348/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/></a>
+<a href="https://shriharish030.github.io"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=F87171" alt="Portfolio"/></a>
+<a href="mailto:shriharishmurugan8@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shriharish030&style=flat-square&color=991B1B&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=shriharish030&style=flat-square&color=991B1B&label=PROFILE%20VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `01` — About Me
+## 01 — About Me
 
-<img align="right" width="110" src="https://skillicons.dev/icons?i=python,java,nodejs,mongodb,angular&theme=dark&perline=2" alt="Technology icons"/>
+I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC), Coimbatore**, passionate about building software, exploring AI, and experimenting with hardware systems.
 
-I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC)**, Coimbatore, interested in software development, AI-powered applications, and system-level experimentation.
+- 🎓 B.E. Computer Science and Engineering
+- 💻 Developing full-stack web applications and backend systems
+- 🤖 Exploring AI/ML, Edge AI, LLMs, and RAG
+- 📱 Building Android applications with Java
+- 🔍 Interested in systems research, log analytics, and automation
+- ⚡ Exploring hardware electronics and embedded systems
 
-- 💻 Building full-stack applications and backend systems
-- 🤖 Exploring AI/ML, Edge AI, and LLM-powered solutions
-- 📱 Developing Android applications with Java
-- 🔍 Interested in system research, log analytics, and automation
-- ⚙️ Exploring hardware electronics and embedded systems
-
-<br clear="right"/>
-
-> **My philosophy:** Understand the problem. Design the system. Build the solution.
+> **My approach:** Understand the problem. Design the system. Build the solution.
 
 ---
 
-## `02` — Featured Projects
+## 02 — Featured Projects
 
 <table>
 <tr>
@@ -53,14 +49,14 @@ I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineerin
 
 **AI-Powered Nutrition Tracking**
 
-An offline-first mobile application for food recognition and nutrition tracking.
+An AI-based mobile application for food recognition and nutrition tracking, designed with an offline-first approach.
 
-`JAVA` `ANDROID` `TFLITE` `MOBILENETV2`
+`Java` `Android Studio` `TensorFlow Lite` `MobileNetV2`
 
 - On-device food image classification
 - Calorie and nutrition information
-- Water intake and daily progress tracking
-- Local data storage and visualization
+- Daily calorie and water tracking
+- History visualization and local data storage
 
 </td>
 <td width="50%" valign="top">
@@ -69,14 +65,14 @@ An offline-first mobile application for food recognition and nutrition tracking.
 
 **Intelligent Security Analytics**
 
-An AI-focused approach to analyzing API traffic and identifying unusual activity.
+An intelligent monitoring concept focused on identifying unusual API activity through machine learning and log analysis.
 
-`PYTHON` `ML` `RAG` `LOG ANALYTICS`
+`Python` `Machine Learning` `LLM` `RAG`
 
-- Anomaly detection from traffic logs
-- Identification of unusual patterns
-- Context-aware explanations using RAG
-- Security monitoring and analysis
+- Analyze traffic logs for unusual patterns
+- Identify potential anomalies
+- Generate context-aware explanations using RAG
+- Support security monitoring workflows
 
 </td>
 </tr>
@@ -87,14 +83,14 @@ An AI-focused approach to analyzing API traffic and identifying unusual activity
 
 **QR-Based Textile & Queue Management**
 
-A workflow-focused system designed to simplify textile product operations.
+A textile workflow management system designed to simplify product operations and improve customer flow.
 
-`QR SCANNING` `INVENTORY` `WORKFLOW R&D`
+`QR Scanning` `Inventory` `Workflow Automation`
 
 - Scan product QR codes to retrieve product information
 - Streamline inventory record management
 - Reduce manual data entry
-- Improve customer queue flow and waiting time
+- Help reduce customer queue waiting times
 
 </td>
 <td width="50%" valign="top">
@@ -103,13 +99,13 @@ A workflow-focused system designed to simplify textile product operations.
 
 **Electronics & Practical Experiments**
 
-Exploring the intersection of software, electronics, and real-world systems.
+Hands-on exploration of hardware modifications, electronics, audio systems, and troubleshooting.
 
-`ELECTRONICS` `EMBEDDED SYSTEMS` `AUDIO`
+`Electronics` `Embedded Systems` `Audio`
 
 - Hardware modification and troubleshooting
 - Audio system experimentation
-- Power circuits and electronic components
+- Electronic components and power circuits
 - System analysis and performance tuning
 
 </td>
@@ -118,37 +114,31 @@ Exploring the intersection of software, electronics, and real-world systems.
 
 ---
 
-## `03` — Tech Arsenal
+## 03 — Tech Stack
 
 <div align="center">
 
-**Languages**
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python Java JavaScript TypeScript"/>
 
-<br/>
+### Backend & Databases
 
-**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js Express MongoDB MySQL"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend technologies"/>
+### Frontend & Mobile
 
-<br/>
+<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Angular HTML CSS React Android Studio"/>
 
-**Frontend & Mobile**
+### AI/ML & Tools
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Frontend and mobile technologies"/>
-
-<br/>
-
-**AI/ML & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="AI and developer tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="TensorFlow Git GitHub Linux VS Code"/>
 
 </div>
 
 ---
 
-## `04` — GitHub Dashboard
+## 04 — GitHub Analytics
 
 <div align="center">
 
@@ -162,13 +152,15 @@ Exploring the intersection of software, electronics, and real-world systems.
 
 <br/><br/>
 
+<a href="https://github.com/shriharish030">
 <img width="75%" src="https://streak-stats.demolab.com?user=shriharish030&theme=dark&hide_border=true&background=080808&ring=EF4444&fire=F87171&currStreakLabel=F87171" alt="GitHub contribution streak"/>
+</a>
 
 </div>
 
 ---
 
-## `05` — Currently Exploring
+## 05 — Currently Exploring
 
 ```yaml
 development:
@@ -178,7 +170,7 @@ development:
 
 research:
   - AI/ML and Edge AI
-  - LLMs and Retrieval-Augmented Generation
+  - Large Language Models and RAG
   - System R&D and Log Analytics
 
 interests:
@@ -186,16 +178,29 @@ interests:
   - Hardware Electronics
   - Embedded Systems
   - Workflow Automation
+
+goals:
+  - Build Practical Software Solutions
+  - Improve System Design Skills
+  - Collaborate on Innovative Projects
 ```
 
 ---
 
 <div align="center">
 
-### `BUILD • EXPERIMENT • IMPROVE`
+### BUILD · EXPERIMENT · IMPROVE
 
 *Always learning. Always building.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:991B1B,50:300707,100:050505&height=100&section=footer" width="100%" alt="Red footer banner"/>
+<br/>
+
+<a href="https://github.com/shriharish030">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A991B1B%2C50%3A300707%2C100%3A050505&height=90&section=footer" width="100%" alt="Footer banner"/>
 
 </div>
