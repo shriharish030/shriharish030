@@ -1,32 +1,30 @@
-
 <div align="center">
 
-# 🔴 SHRI HARISH M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:450A0A,100:991B1B&height=190&section=header&text=SHRI%20HARISH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20R%26D&descSize=15&descAlignY=60" width="100%" alt="Shri Harish profile banner"/>
 
-### SOFTWARE DEVELOPER | SYSTEMS R&D
+### Building software. Exploring intelligence. Engineering systems.
 
-**Full-Stack Development · AI/ML · Hardware & Systems**
-
-Building software. Exploring intelligence. Engineering systems.
+Full-Stack Development · AI/ML · Hardware & Systems
 
 <br/>
 
 <a href="https://github.com/shriharish030">
-<img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-030305?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/shri-harish-a19516348/">
-<img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-030305?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/>
 </a>
 <a href="https://shriharish030.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0B0B0F?style=for-the-badge&logo=googlechrome&logoColor=F87171" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-030305?style=for-the-badge&logo=googlechrome&logoColor=F87171" alt="Portfolio"/>
 </a>
 <a href="mailto:shriharishmurugan8@gmail.com">
-<img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-030305?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shriharish030&style=flat-square&color=991B1B&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/shriharish030?style=flat-square&color=991B1B&label=FOLLOWERS" alt="GitHub followers"/>
 
 </div>
 
