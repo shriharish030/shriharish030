@@ -2,18 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:450A0A,100:991B1B&height=200&section=header&text=SHRI%20HARISH%20M&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Undergraduate&descSize=15&descAlignY=60" width="100%" alt="Header banner"/>
 
-### Building software. Exploring AI. Tinkering with hardware.
+<h3>Building software. Exploring AI. Tinkering with hardware.</h3>
 
-Software Engineering • AI/ML • Embedded Systems • Developer Tools
+<p>Software Engineering • AI/ML • Embedded Systems • Developer Tools</p>
 
-<p align="center">
+<p>
   <a href="https://github.com/shriharish030"><img src="https://img.shields.io/badge/GITHUB-PROFILE-030305?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/shri-harish-a19516348/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-030305?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn"></a>
   <a href="https://shriharish030.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-030305?style=for-the-badge&logo=safari&logoColor=EF4444" alt="Portfolio"></a>
   <a href="mailto:shriharishmurugan8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-030305?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=shriharish030&color=991B1B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=shriharish030&color=991B1B&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>
 
 </div>
 
@@ -21,9 +23,9 @@ Software Engineering • AI/ML • Embedded Systems • Developer Tools
 
 ## 👤 About Me
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 I'm a Computer Science and Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC)**, passionate about building practical software and understanding how systems work underneath.
 
@@ -36,7 +38,7 @@ I'm a Computer Science and Engineering undergraduate at **Sri Ramakrishna Engine
 **My approach:** Learn the fundamentals, build real projects, and improve with every iteration.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=java,python,js,react,tensorflow,git&perline=3&theme=dark" alt="Core Skills"/>
 
@@ -48,7 +50,7 @@ I'm a Computer Science and Engineering undergraduate at **Sri Ramakrishna Engine
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -122,16 +124,16 @@ I'm a Computer Science and Engineering undergraduate at **Sri Ramakrishna Engine
 
 <div align="center">
 
-**Languages**<br>
+<p><b>Languages</b></p>
 <img src="https://skillicons.dev/icons?i=c,java,python,js,ts&theme=dark" alt="Languages"/>
 
-**Web & Backend**<br>
+<p><b>Web & Backend</b></p>
 <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,express&theme=dark" alt="Web"/>
 
-**Data & AI**<br>
+<p><b>Data & AI</b></p>
 <img src="https://skillicons.dev/icons?i=tensorflow,mongodb,mysql,sqlite&theme=dark" alt="Data and AI"/>
 
-**Tools**<br>
+<p><b>Tools</b></p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,androidstudio,vscode&theme=dark" alt="Tools"/>
 
 </div>
@@ -150,7 +152,7 @@ I'm a Computer Science and Engineering undergraduate at **Sri Ramakrishna Engine
 
 ## 🎓 Education
 
-**B.E. Computer Science and Engineering**
+**B.E. Computer Science and Engineering**<br>
 Sri Ramakrishna Engineering College (SREC)
 
 <!-- Add your years and CGPA here, e.g. 2023 - 2027 | CGPA: X.XX / 10 -->
@@ -181,7 +183,7 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:030305,50:450A0A,100:030305&height=80&section=footer" width="100%" alt="Footer"/>
 
-**Build. Learn. Iterate.** 🚀
+<p><b>Build. Learn. Iterate.</b> 🚀</p>
 
 <a href="mailto:shriharishmurugan8@gmail.com"><img src="https://img.shields.io/badge/LET'S%20CONNECT-030305?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Let's Connect"></a>
 
