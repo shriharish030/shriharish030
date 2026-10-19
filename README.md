@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:450A0A,100:991B1B&height=200&section=header&text=SHRI%20HARISH%20M&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20R%26D&descSize=15&descAlignY=60" width="100%" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:450A0A,100:991B1B&height=200&section=header&text=SHRI%20HARISH%20M&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20R%26amp%3BD&descSize=15&descAlignY=60" width="100%" alt="Header banner"/>
 
 <h3>Building software. Exploring AI. Tinkering with hardware.</h3>
 
