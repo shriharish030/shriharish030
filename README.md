@@ -34,7 +34,7 @@ Full-Stack Engineering · AI Edge Apps · System R&D · Hardware Integration
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="70%" valign="top">
 
 I'm an Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC)**, passionate about building reliable software, analyzing technical workflows, and experimenting with hardware integrations.
 
@@ -48,15 +48,9 @@ I'm an Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC)
 **My approach:** Analyze system requirements thoroughly, engineer structured code, and iterate with precision.
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,angular,python,java&theme=dark&perline=3" alt="Core technologies"/>
-
-<br/><br/>
-
-<a href="https://github.com/shriharish030?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
 
 </td>
 </tr>
@@ -82,10 +76,6 @@ An AI-powered mobile nutrition tracking platform designed around offline-first c
 - Retrieves instant macronutrient breakdowns (calories, carbs, protein, fats) from local datasets.
 - Includes daily calorie logging, water tracking, and history visualization.
 
-<a href="https://github.com/shriharish030">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="NutriLens repository"/>
-</a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -99,10 +89,6 @@ An intelligent monitoring platform replacing static rule-based systems with mach
 
 - Continuously analyzes traffic logs to automatically detect unknown security threats and spikes.
 - Utilizes Retrieval-Augmented Generation (RAG) to explain flagged vulnerabilities and suggest fixes.
-
-<a href="https://github.com/shriharish030">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="API Anomaly repository"/>
-</a>
 
 </td>
 </tr>
@@ -120,10 +106,6 @@ An operational management workflow engineered for textile retail environments.
 - Scans product QR codes instantly to streamline stock record management.
 - Eliminates manual data entry bottlenecks and reduces customer queue waiting times.
 
-<a href="https://github.com/shriharish030">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Eminent Ventus repository"/>
-</a>
-
 </td>
 <td width="50%" valign="top">
 
@@ -137,10 +119,6 @@ Practical electronics experimentation combining software logic with physical har
 
 - Custom hardware modification, power circuit wiring, and acoustic driver analysis.
 - Bridging low-level electronics with modular audio setups.
-
-<a href="https://github.com/shriharish030">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Hardware R&D"/>
-</a>
 
 </td>
 </tr>
