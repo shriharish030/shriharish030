@@ -1,176 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:450A0A,100:991B1B&height=190&section=header&text=SHRI%20HARISH%20M&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20R%26D&descSize=15&descAlignY=60" width="100%" alt="Shri Harish profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030305,50:450A0A,100:991B1B&height=180&section=header&text=Hi%20there!%20I'm%20Shri%20Harish%20M&fontSize=32&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20CSE%20Undergraduate%20%7C%20Systems%20R%26D&descSize=13&descAlignY=62" width="100%" alt="Header banner"/>
 
-### Building software. Exploring intelligence. Engineering systems.
-
-Full-Stack Development · AI/ML · Hardware & Systems
-
-<br/>
-
-<a href="https://github.com/shriharish030">
-  <img src="https://img.shields.io/badge/GitHub-030305?style=flat-square&logo=github&logoColor=F87171" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/shri-harish-a19516348/">
-  <img src="https://img.shields.io/badge/LinkedIn-030305?style=flat-square&logo=linkedin&logoColor=F87171" alt="LinkedIn"/>
-</a>
-<a href="https://shriharish030.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-030305?style=flat-square&logo=googlechrome&logoColor=F87171" alt="Portfolio"/>
-</a>
-<a href="mailto:shriharishmurugan8@gmail.com">
-  <img src="https://img.shields.io/badge/Email-030305?style=flat-square&logo=gmail&logoColor=F87171" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shriharish030&style=flat-square&color=991B1B&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/shriharish030?style=flat-square&color=991B1B&label=FOLLOWERS" alt="GitHub followers"/>
+<p align="center">
+  <a href="https://github.com/shriharish030"><img src="https://img.shields.io/badge/GITHUB-030305?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/shri-harish-a19516348/"><img src="https://img.shields.io/badge/LINKEDIN-030305?style=for-the-badge&logo=linkedin&logoColor=EF4444" alt="LinkedIn"></a>
+  <a href="https://shriharish030.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-030305?style=for-the-badge&logo=safari&logoColor=EF4444" alt="Portfolio"></a>
+  <a href="mailto:shriharishmurugan8@gmail.com"><img src="https://img.shields.io/badge/EMAIL-030305?style=for-the-badge&logo=gmail&logoColor=EF4444" alt="Email"></a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+Welcome to my GitHub! I am Shri Harish M, a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC)**. I enjoy building full-stack web and mobile software, exploring AI/ML systems, and experimenting with embedded hardware electronics. Here is where I share my projects, tools, and technical journey.
 
-## 01 · ABOUT ME
+---
 
-*Computer Science Engineering · SREC, Coimbatore*
-
-</div>
-
-I'm a Computer Science Engineering undergraduate passionate about developing practical software solutions, exploring AI-powered applications, and experimenting with hardware systems.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Development
-
-- Full-Stack Web Development
-- Backend & API Development
-- Database Management
-- Application Architecture
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Systems R&D
-
-- AI/ML & Edge AI
-- LLMs & RAG
-- Log Analytics
-- Hardware & Embedded Systems
-
-</td>
-</tr>
-</table>
+## ⚡ My Favorite Tools and Technologies
 
 <div align="center">
 
-> **Understand · Engineer · Innovate**
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,c,nodejs,express,angular,react,html,css,mongodb,mysql,sqlite,tensorflow,androidstudio,git,github,linux,vscode&theme=dark" alt="Tech Stack Icons"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-## 02 · FEATURED PROJECTS
-
-*Software, intelligence, and real-world systems.*
-
-</div>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<div align="center">
 
 ### 🥗 NutriLens AI
-
-**AI-Powered Nutrition Tracker**
-
-</div>
-
-Mobile application concept for food recognition and nutrition tracking with an offline-first approach.
-
-**Technologies**
-
-`Java` `Android Studio` `TensorFlow Lite` `MobileNetV2`
-
-- On-device food image classification
-- Calorie and nutrition information
-- Water intake and daily tracking
-- Local data storage and history charts
+**Smart Food Recognition & Nutrition Tracker**
+- Offline-first mobile app built using `Java`, `Android Studio`, and `TensorFlow Lite`.
+- On-device computer vision models for local food classification and instant macro extraction.
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
-### 🛡️ API Anomaly Detection
-
-**Intelligent Security Analytics**
-
-</div>
-
-An AI-focused approach to identifying unusual API activity through machine learning and log analysis.
-
-**Technologies**
-
-`Python` `Machine Learning` `LLM` `RAG`
-
-- Traffic log analysis
-- Unusual pattern identification
-- Context-aware explanations
-- Security monitoring workflows
+### 🛡️ API Anomaly Detector
+**Real-Time Security Intelligence**
+- Machine learning platform powered by `Python`, `LLM`, and `RAG`.
+- Continuously analyzes traffic logs to detect abnormal security patterns and threats.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-<div align="center">
 
 ### 🏷️ Eminent Ventus
-
-**QR Textile Management**
-
-</div>
-
-A textile management system designed to simplify product operations and improve customer flow.
-
-**Technologies**
-
-`QR Scanning` `Inventory` `Workflow Automation`
-
-- QR-based product information retrieval
-- Simplified inventory management
-- Reduced manual data entry
-- Improved customer queue flow
+**QR Textile Management System**
+- High-throughput operational workflow automation for retail environments.
+- Instant QR scanning to streamline stock records and reduce checkout wait times.
 
 </td>
 <td width="50%" valign="top">
 
-<div align="center">
-
 ### ⚡ Hardware & Systems R&D
-
-**Electronics & Experimentation**
-
-</div>
-
-Hands-on exploration of electronics, hardware modifications, audio systems, and troubleshooting.
-
-**Areas of Interest**
-
-`Electronics` `Embedded Systems` `Audio`
-
-- Hardware troubleshooting
-- Audio system experimentation
-- Electronic components and circuits
-- System analysis and optimization
+**Embedded Electronics & Audio**
+- Hands-on custom hardware modifications, power circuit wiring, and driver tuning.
+- Bridging low-level microcontroller modules with custom audio setups.
 
 </td>
 </tr>
@@ -178,25 +70,14 @@ Hands-on exploration of electronics, hardware modifications, audio systems, and 
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-## 03 · TECH STACK
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Programming languages"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
-
-### Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Frontend and mobile"/>
-
-### AI/ML & Tools
-
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="AI and development tools"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shriharish030&show_icons=true&hide_border=true&bg_color=030305&title_color=EF4444&icon_color=EF4444&text_color=94A3B8&rank_icon=github" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriharish030&layout=compact&hide_border=true&bg_color=030305&title_color=EF4444&text_color=94A3B8&langs_count=6" width="48%" alt="Top Languages">
+</p>
 
 </div>
 
@@ -204,73 +85,8 @@ Hands-on exploration of electronics, hardware modifications, audio systems, and 
 
 <div align="center">
 
-## 04 · CURRENTLY EXPLORING
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030305,50:450A0A,100:030305&height=80&section=footer" width="100%" alt="Footer"/>
 
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<div align="center">
-
-**💻 Development**
-
-</div>
-
-- Full-Stack Engineering
-- Node.js & Express.js
-- MongoDB & Angular
-- Java & Android
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-**🤖 Research**
-
-</div>
-
-- AI/ML & Edge AI
-- LLMs & RAG
-- Systems R&D
-- Log Analytics
-
-</td>
-<td width="33%" valign="top">
-
-<div align="center">
-
-**⚡ Interests**
-
-</div>
-
-- Software Architecture
-- Hardware Electronics
-- Embedded Systems
-- Workflow Automation
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## LET'S BUILD SOMETHING GREAT
-
-**BUILD · EXPERIMENT · IMPROVE**
-
-<br/>
-
-<a href="https://github.com/shriharish030">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-<br/><br/>
-
-*Always learning. Always building.*
+<p style="color: #94a3b8; font-size: 0.85rem;">Designed with Cyberpunk Red & Black Theme 🚀</p>
 
 </div>
