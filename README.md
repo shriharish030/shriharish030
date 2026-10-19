@@ -9,16 +9,16 @@ Full-Stack Development · AI/ML · Hardware & Systems
 <br/>
 
 <a href="https://github.com/shriharish030">
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-030305?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-030305?style=flat-square&logo=github&logoColor=F87171" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/shri-harish-a19516348/">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-030305?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-030305?style=flat-square&logo=linkedin&logoColor=F87171" alt="LinkedIn"/>
 </a>
 <a href="https://shriharish030.github.io">
-  <img src="https://img.shields.io/badge/PORTFOLIO-LIVE-030305?style=for-the-badge&logo=googlechrome&logoColor=F87171" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-030305?style=flat-square&logo=googlechrome&logoColor=F87171" alt="Portfolio"/>
 </a>
 <a href="mailto:shriharishmurugan8@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-030305?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-030305?style=flat-square&logo=gmail&logoColor=F87171" alt="Email"/>
 </a>
 
 <br/><br/>
