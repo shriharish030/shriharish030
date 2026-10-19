@@ -1,18 +1,28 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A050505%2C50%3A450A0A%2C100%3A991B1B&height=200&section=header&text=SHRI%20HARISH%20M&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20SYSTEMS%20R%26D&descSize=15&descAlignY=60" width="100%" alt="Shri Harish - Software Developer | Systems R&D"/>
+# 🔴 SHRI HARISH M
 
-### Software Developer · Systems R&D
+### SOFTWARE DEVELOPER | SYSTEMS R&D
 
-*Engineering software. Exploring intelligence. Building solutions.*
+**Full-Stack Development · AI/ML · Hardware & Systems**
+
+Building software. Exploring intelligence. Engineering systems.
 
 <br/>
 
-<a href="https://github.com/shriharish030"><img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/shri-harish-a19516348/"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/></a>&nbsp;
-<a href="https://shriharish030.github.io"><img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=F87171" alt="Portfolio"/></a>&nbsp;
-<a href="mailto:shriharishmurugan8@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/></a>
+<a href="https://github.com/shriharish030">
+<img src="https://img.shields.io/badge/GitHub-0B0B0F?style=for-the-badge&logo=github&logoColor=F87171" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/shri-harish-a19516348/">
+<img src="https://img.shields.io/badge/LinkedIn-0B0B0F?style=for-the-badge&logo=linkedin&logoColor=F87171" alt="LinkedIn"/>
+</a>
+<a href="https://shriharish030.github.io">
+<img src="https://img.shields.io/badge/Portfolio-0B0B0F?style=for-the-badge&logo=googlechrome&logoColor=F87171" alt="Portfolio"/>
+</a>
+<a href="mailto:shriharishmurugan8@gmail.com">
+<img src="https://img.shields.io/badge/Email-0B0B0F?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/>
+</a>
 
 <br/><br/>
 
@@ -26,30 +36,32 @@
 
 ## 01 · ABOUT ME
 
+*Computer Science Engineering · SREC, Coimbatore*
+
 </div>
 
-I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineering College (SREC), Coimbatore**, interested in software engineering, AI-powered applications, and system-level experimentation.
+I'm a Computer Science Engineering undergraduate passionate about developing practical software solutions, exploring AI-powered applications, and experimenting with hardware systems.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**💻 Software Engineering**
+### 💻 Software Development
 
 - Full-Stack Web Development
 - Backend & API Development
-- Database Design
-- Clean Architecture
+- Database Management
+- Application Architecture
 
 </td>
 <td width="50%" valign="top">
 
-**🔬 Systems R&D**
+### ⚙️ Systems R&D
 
 - AI/ML & Edge AI
-- LLMs & Retrieval-Augmented Generation
+- LLMs & RAG
+- Log Analytics
 - Hardware & Embedded Systems
-- Log Analytics & Automation
 
 </td>
 </tr>
@@ -57,7 +69,7 @@ I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineerin
 
 <div align="center">
 
-> *Understand the problem. Design the system. Build the solution.*
+> **Understand · Engineer · Innovate**
 
 </div>
 
@@ -67,7 +79,7 @@ I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineerin
 
 ## 02 · FEATURED PROJECTS
 
-*Selected work across software, AI, and systems.*
+*Software, intelligence, and real-world systems.*
 
 </div>
 
@@ -79,15 +91,15 @@ I'm a Computer Science Engineering undergraduate at **Sri Ramakrishna Engineerin
 
 ### 🥗 NutriLens AI
 
-**Smart Nutrition · Mobile AI**
+**AI-Powered Nutrition Tracker**
 
 </div>
 
-An offline-first food recognition and nutrition tracking application.
+Mobile application concept for food recognition and nutrition tracking with an offline-first approach.
 
-**Tech Stack**
+**Technologies**
 
-`Java` `Android` `TensorFlow Lite` `MobileNetV2`
+`Java` `Android Studio` `TensorFlow Lite` `MobileNetV2`
 
 - On-device food image classification
 - Calorie and nutrition information
@@ -101,15 +113,15 @@ An offline-first food recognition and nutrition tracking application.
 
 ### 🛡️ API Anomaly Detection
 
-**AI · Security Analytics**
+**Intelligent Security Analytics**
 
 </div>
 
-An intelligent monitoring concept for identifying unusual API activity through machine learning and log analysis.
+An AI-focused approach to identifying unusual API activity through machine learning and log analysis.
 
-**Tech Stack**
+**Technologies**
 
-`Python` `ML` `LLM` `RAG`
+`Python` `Machine Learning` `LLM` `RAG`
 
 - Traffic log analysis
 - Unusual pattern identification
@@ -125,18 +137,18 @@ An intelligent monitoring concept for identifying unusual API activity through m
 
 ### 🏷️ Eminent Ventus
 
-**QR · Textile Management**
+**QR Textile Management**
 
 </div>
 
-A textile workflow system designed to simplify product operations and improve customer flow.
+A textile management system designed to simplify product operations and improve customer flow.
 
-**Tech Stack**
+**Technologies**
 
 `QR Scanning` `Inventory` `Workflow Automation`
 
 - QR-based product information retrieval
-- Streamlined inventory records
+- Simplified inventory management
 - Reduced manual data entry
 - Improved customer queue flow
 
@@ -147,11 +159,11 @@ A textile workflow system designed to simplify product operations and improve cu
 
 ### ⚡ Hardware & Systems R&D
 
-**Electronics · Experimentation**
+**Electronics & Experimentation**
 
 </div>
 
-Practical exploration of hardware modifications, electronics, audio systems, and troubleshooting.
+Hands-on exploration of electronics, hardware modifications, audio systems, and troubleshooting.
 
 **Areas of Interest**
 
@@ -159,8 +171,8 @@ Practical exploration of hardware modifications, electronics, audio systems, and
 
 - Hardware troubleshooting
 - Audio system experimentation
-- Power circuits and components
-- System analysis and performance tuning
+- Electronic components and circuits
+- System analysis and optimization
 
 </td>
 </tr>
@@ -174,34 +186,19 @@ Practical exploration of hardware modifications, electronics, audio systems, and
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Python, Java, JavaScript, TypeScript"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark" alt="Programming languages"/>
 
 ### Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Node.js, Express, MongoDB, MySQL"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and databases"/>
 
 ### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Angular, HTML, CSS, React, Android Studio"/>
+<img src="https://skillicons.dev/icons?i=angular,html,css,react,androidstudio&theme=dark" alt="Frontend and mobile"/>
 
-### AI/ML & Developer Tools
+### AI/ML & Tools
 
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="TensorFlow, Git, GitHub, Linux, VS Code"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 04 · GITHUB ANALYTICS
-
-<a href="https://github.com/shriharish030">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shriharish030&show_icons=true&hide_border=true&bg_color=080808&title_color=F87171&icon_color=EF4444&text_color=E5E7EB&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/shriharish030">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriharish030&layout=compact&hide_border=true&bg_color=080808&title_color=F87171&text_color=E5E7EB&langs_count=6" alt="Most used languages"/>
-</a>
+<img src="https://skillicons.dev/icons?i=tensorflow,git,github,linux,vscode&theme=dark" alt="AI and development tools"/>
 
 </div>
 
@@ -209,7 +206,7 @@ Practical exploration of hardware modifications, electronics, audio systems, and
 
 <div align="center">
 
-## 05 · CURRENTLY EXPLORING
+## 04 · CURRENTLY EXPLORING
 
 </div>
 
@@ -239,7 +236,7 @@ Practical exploration of hardware modifications, electronics, audio systems, and
 
 - AI/ML & Edge AI
 - LLMs & RAG
-- System R&D
+- Systems R&D
 - Log Analytics
 
 </td>
@@ -247,7 +244,7 @@ Practical exploration of hardware modifications, electronics, audio systems, and
 
 <div align="center">
 
-**⚙️ Interests**
+**⚡ Interests**
 
 </div>
 
@@ -264,16 +261,18 @@ Practical exploration of hardware modifications, electronics, audio systems, and
 
 <div align="center">
 
-### BUILD · EXPERIMENT · IMPROVE
+## LET'S BUILD SOMETHING GREAT
 
-*Always learning. Always building.*
+**BUILD · EXPERIMENT · IMPROVE**
 
 <br/>
 
-<a href="https://github.com/shriharish030"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/shriharish030">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-991B1B?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A991B1B%2C50%3A300707%2C100%3A050505&height=100&section=footer" width="100%" alt="Footer banner"/>
+*Always learning. Always building.*
 
 </div>
